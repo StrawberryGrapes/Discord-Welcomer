@@ -6,9 +6,9 @@ Paralyte Services is a service that provides Discord setups for you and your fri
 
 ## Why do we do this?
 
-We do this because we enjoy helping others and succeeding in certain things. 
+We do this because we enjoy helping others and succeeding in certain things. A lot of people are unsure on how to create Discord servers and this is why Paralyte Services have come together to help the people in need.
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
