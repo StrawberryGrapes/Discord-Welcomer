@@ -9,15 +9,6 @@ Paralyte Services is a service that provides Discord setups for you and your fri
 We do this because we enjoy helping others and succeeding in certain things. A lot of people are unsure on how to create Discord servers and this is why Paralyte Services have come together to help the people in need.
 
 
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
 1. Numbered
 2. List
 
@@ -26,12 +17,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### Contact Us!
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heyimdoni/Paralyte-Services/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more information on prices you can contact us @ paralyteservices@paralyte.team.com
