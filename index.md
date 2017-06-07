@@ -15,7 +15,7 @@ We do this because we enjoy helping others and succeeding in certain things. A l
 
 **Bold** and _Italic_ and `Code` text
 
-[Our Website!](paralyte.team)
+[Our Website!](http://paralyte.team/)
 
 ### Contact Us!
 
