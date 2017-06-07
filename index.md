@@ -1,12 +1,12 @@
-### What is "Paralyte Services"?
+# What is "Paralyte Services"?
+
+Paralyte Services is a service that provides Discord setups for you and your friends. We aim to help as many people as we can to give them the best possible Discord server we could provide. Our job is to create simple, or advance Discord servers.
 
 [EDIT THIS]
 
-[EDIT THIS]
+## Why do we do this?
 
-## What do we do as a team?
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We do this because we enjoy helping others and succeeding in certain things. 
 
 ```markdown
 Syntax highlighted code block
