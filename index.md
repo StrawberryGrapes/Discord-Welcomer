@@ -5,7 +5,7 @@ Paralyte Services is a service that provides Discord setups for you and your fri
 
 [EDIT THIS]
 
-## Why do we do this?
+# Why do we do this?
 
 We do this because we enjoy helping others and succeeding in certain things. A lot of people are unsure on how to create Discord servers and this is why Paralyte Services have come together to help the people in need.
 
@@ -17,6 +17,6 @@ We do this because we enjoy helping others and succeeding in certain things. A l
 
 [Our Website!](http://paralyte.team/)
 
-### Contact Us!
+# Contact Us!
 
 For more information on prices you can contact us @ paralyteservices@paralyte.team.com
