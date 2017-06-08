@@ -19,4 +19,4 @@ We do this because we enjoy helping others and succeeding in certain things. A l
 
 # Contact Us!
 
-For more information on prices you can contact us @ paralyteservices@paralyte.team.com
+For more information on prices you can contact us via email using the following email; information@paralyte.team
